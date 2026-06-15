@@ -2,7 +2,7 @@
    LIGHTTRAP UV — APP.JS
    ============================================ */
 
-const API = 'http://localhost:3000/api';
+const API = 'https://terangtani.my.id/api';
 
 // ============================================
 // STATE
