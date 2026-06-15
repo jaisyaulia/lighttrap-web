@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "Sesi Malam",
+    "startTime": "02:53",
+    "endTime": "02:54",
+    "days": [
+      "Wed",
+      "Tue"
+    ],
+    "active": true,
+    "createdAt": "2026-05-12T16:56:01.403Z",
+    "updatedAt": "2026-06-15T19:52:30.868Z"
+  },
+  {
+    "id": 2,
+    "name": "sesi malam",
+    "startTime": "19:38",
+    "endTime": "19:39",
+    "days": [
+      "Sat"
+    ],
+    "active": true,
+    "createdAt": "2026-06-13T12:37:53.446Z",
+    "updatedAt": "2026-06-13T12:38:25.559Z"
+  }
+]
